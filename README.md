@@ -1,4 +1,4 @@
-# Contributor List - Rollitout Home Assignment
+# Contributor List - Rolloutit Home Assignment
 
 ## Features
 
